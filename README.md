@@ -1,3 +1,6 @@
+# Course UDEMY - The Complete JavaScript Course 2022: From Zero to Expert! - Jonas Schmedtmann
+
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
